@@ -9,6 +9,8 @@ A sweeping data acquisition program designed to present current hotspots of acti
         - DeltaLake (Durable Format [Parquet])
         - Hive (Query Layer)
         - Airflow (Orchestration)
+        - Flink (Real Time Data) [Not necessary]
+        - Beam unifies Batch Processing/Streaming
     - NetworkX (Graphs)
 - Scala
     - Kafka (Real time Streaming)
